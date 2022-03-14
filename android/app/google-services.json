@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024357608992",
+    "project_id": "crikclub-36074",
+    "storage_bucket": "crikclub-36074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024357608992:android:eec57bf1e6b2c1ae749645",
+        "android_client_info": {
+          "package_name": "com.crikclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024357608992-006h81l7gfs577da9c6dhmdl86h7ckef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crikclub",
+            "certificate_hash": "f92b53dd483d1a9ff39886e5df2299a5541e8546"
+          }
+        },
+        {
+          "client_id": "1024357608992-tog2f2tumhd4f8159ur3vo233j9nc7s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6INd7IVhCk3D0zttCceUMKoNBn5-CnzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024357608992-tog2f2tumhd4f8159ur3vo233j9nc7s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
